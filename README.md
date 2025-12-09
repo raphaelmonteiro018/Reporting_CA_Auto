@@ -1,3 +1,6 @@
+## Navigation
+Pour naviguer entre les différentes étapes du processus veuillez sélectionner les sous-branches nommées dans l'ordre d'exécution
+
 ## 🏢 Contexte
 Dans le cadre de mon alternance en contrôle de gestion chez Polyexpert j'ai automatisé le reporting quotidien du chiffre d'affaires pour deux régions.
 
