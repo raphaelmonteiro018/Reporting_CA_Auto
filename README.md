@@ -30,9 +30,7 @@ Automatiser entièrement le reporting pour :
 - Processus reproductible et scalable (l'architecture du workflow a été adaptée pour d'autres reporting)
 
 ## 📁 Contenu du projet
-- /exports_erp : planification des extractions
-- /flow_power_automate : documentation et captures d’écran du workflow
-- /excel_automation : programmation des macros VBA
-- /data_example : test réel avec données anonymisées
+- Etape 1 : ERP et Power Automate Desktop
+- Etape 2 : VBA
 
-## Prochaine étape : Branche Power Automate Desktop
+## Prochaine étape : Branche ERP et Power Automate Desktop
