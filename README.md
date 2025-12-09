@@ -10,10 +10,11 @@ Extractions programmées et envoyées par mail du lundi au vendredi à heure fix
 
 ## Manipulation des fichiers (filtrage et suppression de colonnes inutiles)
 - Extrait d'un sous-flux de traitement :
-<img width="707" height="556" alt="image" src="https://github.com/user-attachments/assets/5b22b0aa-d1d2-472a-8447-07e080522a42" />
+<img width="1539" height="854" alt="image" src="https://github.com/user-attachments/assets/a9514195-5522-4d42-9f89-848ce4a2648f" />
 
 ## Résultat final
 En quelques minutes les extractions précédentes sont supprimées et remplacées par les nouvelles pretes pour import.
 
 - Voici un exemple d'arborescence de rangement des extractions pour une région :
-![Uploading image.png…]()
+<img width="707" height="556" alt="image" src="https://github.com/user-attachments/assets/745197fa-81a7-441a-9ac8-a0b98066805f" />
+
