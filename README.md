@@ -1,5 +1,3 @@
-# Automatisation du suivi du Chiffre d'Affaires quotidien
-
 ## 🎯 Objectif
 Automatiser entièrement le processus de suivi du CA quotidien afin de :
 - Éliminer les tâches répétitives et manuelles
