@@ -29,7 +29,3 @@ Automatiser entièrement le reporting pour :
 - /flow_power_automate : documentation et captures d’écran du workflow
 - /excel_automation : programmation des macros VBA
 - /data_example : test réel avec données anonymisées
-
-<img width="757" height="45" alt="image" src="https://github.com/user-attachments/assets/74a47623-76d4-4e52-b76d-7a692aafb71c" />
-
-
