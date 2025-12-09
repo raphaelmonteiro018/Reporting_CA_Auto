@@ -1,4 +1,4 @@
-## Extractions de l'ERP
+## Extractions à partir de l'ERP
 Extractions programmées et envoyées par mail du lundi au vendredi à heure fixe
 
 ## Suppression des anciennes extractions et remplacement par les nouvelles
