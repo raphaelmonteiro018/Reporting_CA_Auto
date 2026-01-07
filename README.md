@@ -1,5 +1,6 @@
 ## Extractions à partir de l'ERP
 Les extractions sont programmées depuis l'ERP et envoyées par mail du lundi au vendredi à heure fixe
+<img width="1904" height="221" alt="image" src="https://github.com/user-attachments/assets/33f7956f-e86b-46ed-bb46-0deafd4ec40b" />
 
 
 ## Power Automate Desktop : Suppression et remplacement des anciennes extractions
